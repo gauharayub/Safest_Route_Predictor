@@ -5,4 +5,4 @@ A GUI application built using Tkinter which predicts the safest route between tw
 
 ## GUI Application
 
-![Join](/images/Screenshot (42).png)
+![GUI App](/images/gui_app.png)
